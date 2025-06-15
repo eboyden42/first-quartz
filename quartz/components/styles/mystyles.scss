@@ -1,0 +1,20 @@
+.my-component {
+    border: 1px solid orange;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    button {
+        width: 80%;
+        height: 40px;
+        margin: 20px;
+        border-radius: 15px;
+        border: none;
+    }
+    button:hover {
+        cursor: pointer;
+        background-color: orange;
+    }
+}
