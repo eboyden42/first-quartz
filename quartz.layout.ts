@@ -41,6 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    Component.MyComponent({favouriteNumber: 17}),
   ],
   right: [
     Component.Graph(),
