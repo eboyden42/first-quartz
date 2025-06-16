@@ -8,6 +8,9 @@ Here I'll put some stuff.
 >[!note]- Hello!
 >what's up
 
+>[!warning]+ WARNING
+>Message
+
 >[!warning]- Expand to see some math!
 >$$
 >x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
