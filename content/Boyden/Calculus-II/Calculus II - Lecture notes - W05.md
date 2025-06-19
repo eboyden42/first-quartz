@@ -94,9 +94,9 @@ The area *per strip* is then:
 - $g(y)\,dy$ — region ‘under’ $x=g(y)$
 - $(g_2-g_1)\,dy$ — region between $g_1$ and $g_2$
 
-![500](Pasted%20image%2020250205185504.png)
+![500](Pastedimage20250205185504.png)
 
-![200](Pasted%20image%2020250205190049.png)
+![200](Pastedimage20250205190049.png)
 
 ---
 

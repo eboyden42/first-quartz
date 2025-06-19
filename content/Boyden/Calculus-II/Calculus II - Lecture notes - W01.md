@@ -20,10 +20,10 @@ title: W01 Notes
 
 Take a graph $y=f(x)$ in the first quadrant of the $xy$-plane. Rotate this about the $y$-axis. The resulting 3D body is symmetric around the axis. We can find the volume of this body by using an integral to add up the volumes of infinitesimal **shells**, where each shell is a *thin cylinder*.
 
-![700](Pasted%20image%2020240827225049.png)
+![[Pastedimage20250205185504.png]]
 
 The volume of each cylindrical shell is $2\pi\,R\,h\,\Delta r$:
-![300](Pasted%20image%2020240827225029.png)
+![[Pastedimage20250205185504.png]]
 
 In the limit as $\Delta r\to dr$ and the number of shells becomes infinite, their total volume is given by an integral.
 
